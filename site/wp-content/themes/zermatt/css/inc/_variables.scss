@@ -1,0 +1,27 @@
+$grid-columns:      12 !default;
+$grid-gutter-width: 30px !default;
+
+$screen-xs-min: 480px !default;
+$screen-sm-min: 768px !default;
+$screen-md-min: 992px !default;
+$screen-lg-min: 1200px !default;
+
+$screen-xs-max: ($screen-sm-min - 1) !default;
+$screen-sm-max: ($screen-md-min - 1) !default;
+$screen-md-max: ($screen-lg-min - 1) !default;
+
+$primary-color: #CBB758 !default;
+$link-color: #9e8927;
+$text-color: #2c2c2c !default;
+$text-on-primary-color: #FFF !default;
+$header-text-color: #FFF !default;
+$heading-color: #828282 !default;
+$border-color: #D7D7D7 !default;
+
+$header-height: 120px !default;
+$header-height-xs: 110px !default;
+$section-padding: 90px !default;
+$section-padding-xs: 60px !default;
+
+$primary-font: "Lora", Georgia, sans-serif;
+$secondary-font: "Lora", Georgia, sans-serif;

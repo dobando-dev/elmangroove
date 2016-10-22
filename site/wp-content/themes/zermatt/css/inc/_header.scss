@@ -1,0 +1,180 @@
+/* -----------------------------------------
+	03. Header
+----------------------------------------- */
+.header {
+	height: $header-height;
+	z-index: 101;
+	position: absolute;
+	color: $header-text-color;
+	top: 0;
+	width: 100%;
+
+	a {
+		color: $header-text-color;
+	}
+
+	.container,
+	.row,
+	div[class^="col"] {
+		height: 100%;
+	}
+}
+
+.mast-head {
+	display: table;
+	width: 100%;
+	border-bottom: 1px solid rgba($header-text-color, 0.2);
+	padding: 33px 0;
+	max-height: $header-height - 5px;
+}
+
+.mast-head-left,
+.mast-head-right {
+	vertical-align: middle;
+	display: table-cell;
+}
+
+.mast-head-left {
+	width: 30%;
+}
+
+.mast-head-right {
+	width: 70%;
+	@include clearfix;
+}
+
+.site-logo {
+	letter-spacing: 0.3em;
+	margin: 0;
+	padding-right: 15px;
+}
+
+.mast-head-group {
+	line-height: normal;
+	float: right;
+
+	> *:last-child {
+		margin-right: 0;
+	}
+}
+
+/* Weather */
+.resort-info {
+	margin-right: 15px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.resort-weather {
+	display: inline-block;
+	margin-right: 7px;
+
+	.wi {
+		font-size: 31px;
+	}
+}
+
+.resort-temperature {
+	font-size: 26px;
+	margin-right: 5px;
+	display: inline-block;
+
+	> span {
+		font-size: 12px;
+		position: relative;
+		top: -9px;
+	}
+}
+
+.resort-location {
+	position: relative;
+	top: 2px;
+	display: inline-block;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+.resort-town {
+	font-weight: bold;
+	display: block;
+}
+
+.resort-country {
+	display: block;
+}
+
+/* Dropdowns */
+.header {
+	.btn {
+		margin-right: 5px;
+	}
+
+	.ci-dropdown {
+		display: inline-block;
+		margin-right: 5px;
+
+		.sfHover > a,
+		.sfHover > button{
+			color: $primary-color;
+			background-color: $header-text-color;
+		}
+
+		.current_page_item,
+		.current-menu-item,
+		.current-menu-ancestor,
+		.current-menu-parent {
+			> a {
+				color: $primary-color;
+				background-color: $header-text-color;
+			}
+		}
+	}
+
+	.ci-dropdown-menu {
+		ul {
+			border-color: #C2C2C2;
+
+			li {
+				a {
+					background-color: rgba($header-text-color, 0.9);
+					color: $text-color;
+
+					&:hover {
+						color: $primary-color;
+						background-color: $header-text-color;
+					}
+				}
+			}
+		}
+	}
+
+	.ci-dropdown-toggle {
+		background-color: transparent;
+		border: 2px solid $header-text-color;
+		color: $header-text-color;
+		height: 40px;
+		width: 40px;
+		text-align: center;
+		padding-left: 0;
+		padding-right: 0;
+
+		&:hover {
+			background-color: $header-text-color;
+			color: $primary-color;
+		}
+
+		.fa {
+			font-size: 17px;
+			position: relative;
+			top: -2px;
+		}
+	}
+}
+
+.ci-dropdown-language {
+	.ci-dropdown-menu {
+		ul {
+			min-width: 80px;
+		}
+	}
+}

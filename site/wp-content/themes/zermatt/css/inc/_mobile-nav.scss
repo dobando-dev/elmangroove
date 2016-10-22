@@ -1,0 +1,31 @@
+/* -----------------------------------------
+  09.  MOBILE MENU
+----------------------------------------- */
+#mobilemenu {
+	display: none;
+}
+
+.mobile-trigger {
+	background-color: transparent;
+	border: 2px solid $header-text-color;
+	color: $header-text-color;
+	height: 40px;
+	width: 40px;
+	text-align: center;
+	padding-left: 0;
+	padding-right: 0;
+	line-height: 40px;
+	vertical-align: middle;
+	display: none;
+
+	&:hover {
+		background-color: $header-text-color;
+		color: $primary-color;
+	}
+
+	.fa {
+		font-size: 17px;
+		position: relative;
+		top: -2px;
+	}
+}

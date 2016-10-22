@@ -1,0 +1,273 @@
+/* -----------------------------------------
+	11. Global Mediaqueries
+----------------------------------------- */
+
+@media ( max-width: $screen-md-max ) {
+	.header {
+		.nav {
+			display: none;
+		}
+	}
+
+	.header-alt {
+		.mobile-trigger {
+			display: inline-block;
+		}
+
+		#mobilemenu {
+			display: block;
+		}
+	}
+}
+
+@media ( max-width: $screen-sm-max ) {
+	.header-default {
+		.mobile-trigger {
+			display: inline-block;
+		}
+	}
+
+	.header {
+		.ci-dropdown-nav {
+			display: none;
+		}
+	}
+
+	#mobilemenu {
+		display: block;
+	}
+
+	.page-hero {
+		height: 300px;
+	}
+
+	.page-title {
+		padding-top: 165px;
+	}
+
+	.sidebar {
+		margin-top: 40px;
+	}
+
+	.slide-video-wrap {
+		display: none;
+	}
+
+	.item-inset {
+		&:hover {
+			&:before {
+				border-width: 10px;
+			}
+		}
+	}
+
+	.item-inset-content {
+		h3 {
+			font-size: 22px;
+		}
+
+		.text-styled {
+			margin: 0;
+			font-size: 12px;
+			margin-bottom: 15px;
+		}
+
+		.btn {
+			font-size: 11px;
+			height: 34px;
+			padding-top: 9px;
+		}
+	}
+}
+
+@media ( max-width: $screen-xs-max ) {
+	h1 { font-size: 30px; }
+	h2 { font-size: 26px; }
+	h3 { font-size: 20px; }
+	h4 { font-size: 18px; }
+	h5 { font-size: 14px; }
+	h6 { font-size: 12px; }
+
+	.mast-head {
+		max-height: $header-height-xs - 5px;
+
+		.btn {
+			display: none;
+		}
+	}
+
+	.header {
+		height: $header-height-xs;
+	}
+
+	.mast-head-left {
+		width: 65%;
+		height: 100%;
+	}
+
+	.mast-head-right {
+		width: 30%;
+	}
+
+	.ci-dropdown-language {
+		display: none;
+	}
+
+	.resort-info {
+		display: none;
+	}
+
+	.site-logo {
+		white-space: nowrap;
+		overflow: hidden;
+		font-size: 20px;
+	}
+
+	.slide-title {
+		font-size: 28px;
+	}
+
+	.main {
+		padding: 50px 0;
+
+		&.main-sections {
+			padding: 0;
+		}
+	}
+
+	.widget-padded + .widget-padded,
+	.widget-padded + .null-instagram-feed {
+		margin-top: -$section-padding-xs;
+	}
+
+	section.widget {
+		margin: 0 0 $section-padding-xs;
+
+	  &.widget-padded,
+		&.null-instagram-feed {
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+	}
+
+	.widget-padded {
+		.widget-wrap {
+			padding: $section-padding-xs 0;
+
+			&.wrap-extra-pad {
+				padding: (2.4*$section-padding-xs) 0;
+			}
+		}
+	}
+
+	.main-sections .widget:first-child {
+		.widget-wrap {
+			padding-top: $section-padding-xs;
+		}
+	}
+
+	.section-title {
+		font-size: 20px;
+		margin-bottom: 20px;
+	}
+
+	.text-lg {
+		font-size: 17px;
+	}
+
+	.hero-content {
+		.section-title {
+			font-size: 28px;
+		}
+
+		.section-subtitle {
+			font-size: 15px;
+		}
+	}
+
+	.box {
+		width: 100%;
+		margin: 0;
+		float: none;
+
+		.item-inset {
+			margin: 0 0 30px;
+
+			&:last-child {
+				margin: 0 0 30px;
+			}
+		}
+
+		&:last-of-type {
+			.item-inset:last-child {
+				margin-bottom: 0;
+			}
+		}
+	}
+
+	.justified-gallery {
+		margin-bottom: 30px;
+	}
+
+	.ci-map {
+		height: 280px;
+	}
+
+	.trip-advisor-widget {
+		margin-bottom: 30px;
+	}
+
+	.footer {
+		text-align: center;
+
+		.text-right {
+			text-align: center;
+		}
+	}
+
+	.page-hero {
+		height: 260px;
+	}
+	
+	.page-title {
+		padding-top: 150px;
+		font-size: 26px;
+	}
+	
+	.page-subtitle {
+		font-size: 14px;
+	}
+
+	.entry-thumb {
+		padding: 10px;
+		margin-bottom: 20px;
+	}
+
+	.entry-title {
+		font-size: 22px;
+	}
+
+	.entry-meta {
+		font-size: 13px;
+		margin-bottom: 20px;
+	}
+
+	.room-slide-controls {
+		margin: -35px -11px 0;
+
+		a {
+			height: 70px;
+
+			span {
+				width: 20px;
+				line-height:70px;
+				font-size: 24px;
+			}
+		}
+	}
+
+	.room-slide-img {
+		display: none;
+	}
+}

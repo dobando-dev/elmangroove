@@ -1,0 +1,488 @@
+/* -----------------------------------------
+	07. Widgets Styling
+----------------------------------------- */
+
+.widget {
+	margin: 0 0 40px;
+}
+
+.sidebar .widget:last-child,
+.widget p:last-child { /* Nullify bottom margin for last elements in widgets and sidebars */
+	margin-bottom: 0;
+}
+
+.widget-title {
+	font-size: 18px;
+	line-height: normal;
+	margin: 0 0 20px;
+	color: $heading-color;
+	letter-spacing: 0.14em;
+
+	label {
+		text-transform: none;
+		display: block;
+		font-size: inherit;
+		margin: 0;
+		line-height: inherit;
+		font-weight: inherit;
+	}
+}
+
+.section-title,
+.section-subtitle {
+	text-align: center;
+	color: inherit;
+}
+
+.section-title {
+	font-size: 24px;
+	letter-spacing: 0.14em;
+	position: relative;
+	padding: 0 0 18px;
+	margin: 0 0 32px;
+
+	&:after {
+		content: "";
+		width: 30px;
+		border-top: 1px solid $heading-color;
+		position: absolute;
+		bottom: 0;
+		left: 50%;
+		margin-left: -15px;
+
+		.widget-padded & {
+			border-color: inherit;
+		}
+	}
+}
+
+.section-subtitle {
+	@include font-style();
+}
+
+.widget-padded + .widget-padded,
+.widget-padded + .null-instagram-feed {
+	margin-top: -$section-padding;
+}
+
+section.widget {
+	margin: 0 0 $section-padding;
+
+  &.widget-padded,
+	&.null-instagram-feed {
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+}
+
+.widget-padded {
+	.widget-wrap {
+		padding: $section-padding 0;
+
+		&.wrap-extra-pad {
+			padding: (2.4*$section-padding) 0;
+		}
+	}
+}
+
+.main-sections .widget:first-child {
+	.widget-wrap {
+		padding-top: $section-padding;
+	}
+}
+
+.widget-wrap {
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+/* WIDGET: #Hero
+========================================= */
+.hero-content {
+	text-align: center;
+
+	.section-title {
+		font-size: 36px;
+		letter-spacing: 0.28em;
+		margin: 0 0 5px;
+		padding: 0;
+
+		&:after {
+			display: none;
+		}
+	}
+
+	.btn {
+		margin-top: 35px;
+		color: inherit;
+		border-color: inherit;
+	}
+}
+
+.sidebar {
+	.widget_ci-hero {
+		border: 1px solid $border-color;
+		padding: 20px;
+
+		.widget-title {
+			color: inherit;
+			margin: 0 0 8px;
+			font-size: 24px;
+		}
+
+		.widget-wrap {
+			padding: 120px 0;
+		}
+	}
+}
+
+/* WIDGET: #Contact
+========================================= */
+.ci-map-wrap {
+	margin: 0 0 30px;
+	padding: 20px;
+	border: 1px solid $border-color;
+}
+
+.ci-map {
+	width: 100%;
+	height: 500px;
+}
+
+
+.ci-address {
+	margin: 0 0 30px;
+	font-size: 18px;
+	font-style: italic;
+	line-height: 1.4;
+}
+
+/* WIDGET: #Testimonial
+========================================= */
+section.widget_ci-testimonial-inset {
+	margin-bottom: 60px;
+}
+
+.ci-testimonial {
+	margin: 0;
+	position: relative;
+
+	&:before {
+		content: "\201C";
+		font-style: italic;
+		position: absolute;
+		font-size: 400px;
+		opacity: 0.1;
+		line-height: 0.6;
+		font-weight: bold;
+		left: 50%;
+		margin-left: -90px;
+		z-index: -1;
+	}
+
+	cite {
+		@include font-style(16px);
+		font-style: normal;
+		text-align: center;
+		color: $heading-color;
+		margin: 30px 0 0;
+	}
+}
+
+.widget_ci-booking-form {
+	color: #FFF;
+
+	.widget-wrap {
+		background-color: #252525;
+	}
+}
+
+/* WIDGET: #Booking Call To Action
+========================================= */
+.booking-cta {
+	text-align: center;
+	padding: 20px;
+	border: 1px solid $border-color;
+	color: $text-on-primary-color;
+}
+
+.booking-cta-inner {
+	background-color: $primary-color;
+	padding: 35px;
+}
+
+.cta-content {
+	h3 {
+		margin: 0 0 8px;
+		color: inherit;
+	}
+
+	.text-styled {
+		margin-bottom: 25px;
+		font-size: 14px;
+	}
+}
+
+/* WIDGET: #Offer Call To Action
+========================================= */
+.offer-cta {
+	text-align: center;
+	padding: 20px;
+	border: 1px solid $border-color;
+}
+
+.offer-cta-inner {
+	position: relative;
+	min-height: 200px;
+
+	.cta-content {
+		position: absolute;
+		top: 50%;
+		width: 100%;
+		-webkit-transform: translateY(-50%);
+		-moz-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		-o-transform: translateY(-50%);
+		transform: translateY(-50%);
+		padding: 35px;
+	}
+
+	.btn {
+		color: inherit;
+		border-color: inherit;
+	}
+}
+
+/* WIDGET: #List Widgets
+========================================= */
+
+.widget {
+	select {
+		width: 100%;
+		padding: 5px 10px;
+		border-radius: 0;
+		border: 1px solid $border-color;
+	}
+}
+
+.widget_meta,
+.widget_pages,
+.widget_categories,
+.widget_archive,
+.widget_nav_menu,
+.widget_recent_entries {
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+
+		ul {
+			margin-left: 15px;
+		}
+
+		li {
+			line-height: normal;
+			display: block;
+			position: relative;
+
+			a {
+				display: block;
+				padding: 11px 0;
+				border-bottom: 1px solid $border-color;
+			}
+
+			&.current-cat,
+			&:hover {
+				> .count {
+
+				}
+			}
+
+			.count,
+			.ci-count {
+				position: absolute;
+				right: 0;
+				top: 8px;
+				font-size: 12px;
+				font-weight: bold;
+				font-style: italic;
+				transition: all 0.18s ease;
+				padding: 4px 3px;
+			}
+		}
+	}
+}
+
+.widget_recent_comments {
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+		li {
+			display: block;
+			padding: 11px 0;
+			border-bottom: 1px solid $border-color;
+		}
+	}
+}
+
+.widget_pages,
+.widget_categories,
+.widget_archive {
+	select {
+		@include select-style;
+	}
+}
+/* WIDGET: #Ads125
+========================================= */
+
+#ads125,
+.ads125 {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+	li {
+		background: none;
+		border: none;
+		float: left;
+		margin: 0 15px 10px 0;
+		padding: 0;
+		max-width: 125px;
+		height: auto;
+	}
+}
+
+/* WIDGET: #Search
+========================================= */
+
+.searchform {
+	> div {
+		position: relative;
+	}
+
+	input[type="text"],
+	input[type="search"] {
+		margin: 0;
+		// Styling for the search input if required
+	}
+
+	.searchsubmit {
+		position: absolute;
+		top: 0;
+		right: 0;
+		height: 100%;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+
+/* WIDGET: #Flickr
+========================================= */
+
+.flickr_badge_image {
+	float: left;
+	margin: 0 15px 15px 0;
+
+	a {
+		display: block;
+		line-height: 0;
+	}
+}
+
+/* WIDGET: #About
+========================================= */
+
+.widget_about {
+	margin-top: -5px;
+
+	img {
+		max-width: 100px;
+		height: auto;
+	}
+
+	.alignleft {
+		float: left;
+		margin: 5px 15px 6px 0;
+	}
+
+	.alignright {
+		float: right;
+		margin: 5px 0 6px 15px;
+	}
+}
+
+/* WIDGET: #Text Widget
+========================================= */
+
+.widget_text p:last-child {
+	margin-bottom: 0;
+}
+
+/* WIDGET: #Twitter
+========================================= */
+
+.widget_ci_twitter_widget {
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+		li {
+			margin-bottom: 12px;
+		}
+
+		li:first-child {
+			padding-top: 0;
+		}
+	}
+
+	.twitter-time {
+		display: block;
+		font-size: 0.85em;
+	}
+}
+
+/* WIDGET: #Calendar
+================================================== */
+
+#wp-calendar {
+	width: 100%;
+
+	a {
+		font-weight: bold;
+		font-style: italic;
+	}
+
+	caption {
+		text-align: left;
+		margin-top: 10px;
+		background: none repeat scroll 0 0 rgba(0, 0, 0, 0.03);
+		padding: 9px;
+	}
+
+	thead {
+		font-size: 10px;
+
+		th {
+			background: rgba(0, 0, 0, 0.1);
+			font-weight: bold;
+			padding: 8px;
+		}
+	}
+
+	tbody {
+		td { background: none; border: 1px solid rgba(0, 0, 0, 0.1); text-align: center; padding: 3px;}
+		td:hover { background: rgba(0, 0, 0, 0.1); }
+		.pad { background: none; }
+	}
+
+	tfoot {
+		#next { font-size: 10px; text-transform: uppercase; text-align: right; }
+		#prev { font-size: 10px; text-transform: uppercase; padding-top: 10px; }
+	}
+}

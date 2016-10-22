@@ -1,0 +1,2461 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Zermatt\n"
+"POT-Creation-Date: 2016-09-28 12:00+0300\n"
+"PO-Revision-Date: 2015-11-03 15:33+0200\n"
+"Last-Translator: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"Language-Team: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:9
+msgid ""
+"The page you were looking for can not be found! Perhaps try searching?"
+msgstr ""
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: functions.php:82
+msgid "Main Menu"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:115
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:242
+msgid "No posts found."
+msgstr ""
+
+#: functions.php:281
+msgctxt "widget area"
+msgid "Blog"
+msgstr ""
+
+#: functions.php:283
+msgid "This is the main sidebar."
+msgstr ""
+
+#: functions.php:291
+msgctxt "widget area"
+msgid "Pages"
+msgstr ""
+
+#: functions.php:293
+msgid ""
+"This sidebar appears on your static pages. If empty, the Blog sidebar will "
+"be shown instead."
+msgstr ""
+
+#: functions.php:301
+msgctxt "widget area"
+msgid "Homepage"
+msgstr ""
+
+#: functions.php:303
+msgid "This widget area appears on your front page template."
+msgstr ""
+
+#: functions.php:311
+msgctxt "widget area"
+msgid "Pre-footer site-wide"
+msgstr ""
+
+#: functions.php:313
+msgid ""
+"This widget area appears before the footer on every page except the "
+"frontpage template."
+msgstr ""
+
+#: functions.php:321
+msgctxt "widget area"
+msgid "Rooms"
+msgstr ""
+
+#: functions.php:323
+msgid "This sidebar appears on your room pages."
+msgstr ""
+
+#: functions.php:331
+msgctxt "widget area"
+msgid "Services"
+msgstr ""
+
+#: functions.php:333
+msgid "This sidebar appears on your services pages."
+msgstr ""
+
+#: functions.php:341
+msgctxt "widget area"
+msgid "Attractions"
+msgstr ""
+
+#: functions.php:343
+msgid "This sidebar appears on your attraction pages."
+msgstr ""
+
+#: functions.php:351
+msgctxt "widget area"
+msgid "Contact form"
+msgstr ""
+
+#: functions.php:353
+msgid ""
+"This sidebar appears along with your contact form (either on page or on "
+"widget)."
+msgstr ""
+
+#: functions.php:450
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:455
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:460
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:465
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:470
+msgid "Google Plus"
+msgstr ""
+
+#: functions.php:475
+msgid "LinkedIn"
+msgstr ""
+
+#: functions.php:480
+msgid "Tumblr"
+msgstr ""
+
+#: functions.php:485
+msgid "Flickr"
+msgstr ""
+
+#: functions.php:490
+msgid "Bloglovin"
+msgstr ""
+
+#: functions.php:495
+msgid "YouTube"
+msgstr ""
+
+#: functions.php:500
+msgid "Vimeo"
+msgstr ""
+
+#: functions.php:505
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:510
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:515
+msgid "500px"
+msgstr ""
+
+#: functions.php:520
+msgid "Soundcloud"
+msgstr ""
+
+#: functions.php:525
+msgid "Spotify"
+msgstr ""
+
+#: functions.php:530
+msgid "Vine"
+msgstr ""
+
+#: functions.php:574
+msgid "Zermatt &ndash; A Hotel WordPress theme"
+msgstr ""
+
+#: functions.php:651
+msgid "Page Subtitle (optional):"
+msgstr ""
+
+#: functions.php:653
+msgid ""
+"You can replace the default header image with a different one, applied "
+"only on this specific page."
+msgstr ""
+
+#: functions.php:664 inc/helpers-post-meta.php:29
+#: inc/widgets/book-room.php:134 inc/widgets/booking-form.php:183
+#: inc/widgets/contact.php:228 inc/widgets/gallery.php:159
+#: inc/widgets/hero.php:146 inc/widgets/latest-posts.php:191
+#: inc/widgets/page-gallery.php:215 inc/widgets/testimonial.php:178
+#: inc/widgets/text.php:128
+msgid "Remove image"
+msgstr ""
+
+#: functions.php:670 inc/widgets/book-room.php:140
+#: inc/widgets/booking-form.php:189 inc/widgets/contact.php:234
+#: inc/widgets/gallery.php:165 inc/widgets/hero.php:152
+#: inc/widgets/latest-posts.php:197 inc/widgets/page-gallery.php:221
+#: inc/widgets/testimonial.php:184 inc/widgets/text.php:134
+msgid "Select Image"
+msgstr ""
+
+#: functions.php:756
+msgid "Celsius"
+msgstr ""
+
+#: functions.php:757
+msgid "Fahrenheit"
+msgstr ""
+
+#: functions.php:776
+msgid "Big left (3 rooms max)"
+msgstr ""
+
+#: functions.php:777
+msgid "Big right (3 rooms max)"
+msgstr ""
+
+#: functions.php:778
+msgid "2 Columns"
+msgstr ""
+
+#: functions.php:779
+msgid "3 Columns"
+msgstr ""
+
+#: header.php:64 inc/widgets/book-room.php:20
+msgid "Book Now"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:6
+msgctxt "post type general name"
+msgid "Attractions"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:7 inc/custom-fields-attraction.php:23
+msgctxt "post type singular name"
+msgid "Attraction"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:8
+msgctxt "admin menu"
+msgid "Attractions"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:9
+msgctxt "add new on admin bar"
+msgid "Attraction"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:10 inc/custom-fields-gallery.php:10
+#: inc/custom-fields-room.php:10 inc/custom-fields-service.php:10
+#: inc/custom-fields-slide.php:10 inc/custom-fields-testimonial.php:10
+#: inc/custom-fields-video.php:10
+msgid "Add New"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:11
+msgid "Add New Attraction"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:12
+msgid "Edit Attraction"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:13
+msgid "New Attraction"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:14
+msgid "View Attraction"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:15
+msgid "Search Attractions"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:16
+msgid "No Attractions found"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:17
+msgid "No Attractions found in the trash"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:18
+msgid "Parent Attraction:"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:29
+msgctxt "post type slug"
+msgid "attraction"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:38
+msgctxt "taxonomy general name"
+msgid "Attraction Categories"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:39
+msgctxt "taxonomy singular name"
+msgid "Attraction Category"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:40
+msgid "Search Attraction Categories"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:41
+msgid "All Attraction Categories"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:42
+msgid "Parent Attraction Category"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:43
+msgid "Parent Attraction Category:"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:44
+msgid "Edit Attraction Category"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:45
+msgid "Update Attraction Category"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:46
+msgid "Add New Attraction Category"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:47
+msgid "New Attraction Category Name"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:48 inc/custom-fields-gallery.php:48
+#: inc/custom-fields-room.php:48 inc/custom-fields-service.php:48
+#: inc/custom-fields-slide.php:48 inc/custom-fields-video.php:48
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:49
+msgid "View Attraction Category"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:50
+msgid "Popular Attraction Categories"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:56
+msgctxt "taxonomy slug"
+msgid "attraction-category"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:69
+msgid "Attraction Settings"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:70 inc/custom-fields-gallery.php:70
+#: inc/custom-fields-page.php:15 inc/custom-fields-room.php:70
+#: inc/custom-fields-service.php:69
+msgid "Page Header"
+msgstr ""
+
+#: inc/custom-fields-attraction.php:78
+msgid ""
+"You can create a gallery by pressing the <em>Add Images</em> button below. "
+"You should also set a featured image that will be used as the cover image."
+msgstr ""
+
+#: inc/custom-fields-gallery.php:6
+msgctxt "post type general name"
+msgid "Galleries"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:7 inc/custom-fields-gallery.php:23
+msgctxt "post type singular name"
+msgid "Gallery"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:8
+msgctxt "admin menu"
+msgid "Galleries"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:9
+msgctxt "add new on admin bar"
+msgid "Gallery"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:11
+msgid "Add New Gallery"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:12
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:13
+msgid "New Gallery"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:14
+msgid "View Gallery"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:15
+msgid "Search Galleries"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:16
+msgid "No Galleries found"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:17
+msgid "No Galleries found in the trash"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:18
+msgid "Parent Gallery:"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:29
+msgctxt "post type slug"
+msgid "gallery"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:38
+msgctxt "taxonomy general name"
+msgid "Gallery Categories"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:39
+msgctxt "taxonomy singular name"
+msgid "Gallery Category"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:40
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:41
+msgid "All Gallery Categories"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:42
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:43
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:44
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:45
+msgid "Update Gallery Category"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:46
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:47
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:49
+msgid "View Gallery Category"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:50
+msgid "Popular Gallery Categories"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:56
+msgctxt "taxonomy slug"
+msgid "gallery-category"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:69
+msgid "Gallery Settings"
+msgstr ""
+
+#: inc/custom-fields-gallery.php:78
+msgid ""
+"You can create a featured gallery by pressing the <em>Add Images</em> "
+"button below. You should also set a featured image that will be used as "
+"this Gallery's cover."
+msgstr ""
+
+#: inc/custom-fields-page.php:6
+msgid "Front Page Details"
+msgstr ""
+
+#: inc/custom-fields-page.php:7
+msgid "Room Listing Options"
+msgstr ""
+
+#: inc/custom-fields-page.php:8
+msgid "Gallery Listing Options"
+msgstr ""
+
+#: inc/custom-fields-page.php:9
+msgid "Video Listing Options"
+msgstr ""
+
+#: inc/custom-fields-page.php:10
+msgid "Attraction Listing Options"
+msgstr ""
+
+#: inc/custom-fields-page.php:11
+msgid "Service Listing Options"
+msgstr ""
+
+#: inc/custom-fields-page.php:12
+msgid "Contact Page Details"
+msgstr ""
+
+#: inc/custom-fields-page.php:13
+msgid "Page with Gallery Options"
+msgstr ""
+
+#: inc/custom-fields-page.php:78
+msgctxt "frontpage layout"
+msgid "Normal"
+msgstr ""
+
+#: inc/custom-fields-page.php:79
+msgctxt "frontpage layout"
+msgid "Full screen"
+msgstr ""
+
+#: inc/custom-fields-page.php:81 inc/widgets/rooms.php:158
+msgid "Layout:"
+msgstr ""
+
+#: inc/custom-fields-page.php:84 inc/custom-fields-page.php:111
+#: inc/custom-fields-page.php:155 inc/custom-fields-page.php:192
+#: inc/custom-fields-page.php:227 inc/custom-fields-page.php:264
+msgid ""
+"Select a base category. Only items from the selected category and sub-"
+"categories will be displayed. If you don't select one (i.e. empty) all "
+"items will be shown."
+msgstr ""
+
+#: inc/custom-fields-page.php:85
+msgid "Base slides category:"
+msgstr ""
+
+#: inc/custom-fields-page.php:112 inc/custom-fields-page.php:156
+#: inc/custom-fields-page.php:193 inc/custom-fields-page.php:228
+#: inc/custom-fields-page.php:265
+msgid "Base category:"
+msgstr ""
+
+#: inc/custom-fields-page.php:127 inc/custom-fields-page.php:171
+#: inc/custom-fields-page.php:208 inc/custom-fields-page.php:243
+#: inc/custom-fields-page.php:280 inc/widgets/latest-posts.php:170
+#, php-format
+msgid "1 Column"
+msgid_plural "%s Columns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom-fields-page.php:129 inc/custom-fields-page.php:173
+#: inc/custom-fields-page.php:210 inc/custom-fields-page.php:245
+#: inc/custom-fields-page.php:282
+msgid "Number of columns to display the items in:"
+msgstr ""
+
+#: inc/custom-fields-page.php:131 inc/custom-fields-page.php:175
+#: inc/custom-fields-page.php:247 inc/custom-fields-page.php:284
+msgid "First item appears full width."
+msgstr ""
+
+#: inc/custom-fields-page.php:134
+msgid "All rooms"
+msgstr ""
+
+#: inc/custom-fields-page.php:135
+msgid "Only rooms on offer"
+msgstr ""
+
+#: inc/custom-fields-page.php:136
+msgid "Only rooms not on offer"
+msgstr ""
+
+#: inc/custom-fields-page.php:138
+msgid "Room filter:"
+msgstr ""
+
+#: inc/custom-fields-page.php:140 inc/custom-fields-page.php:177
+#: inc/custom-fields-page.php:212 inc/custom-fields-page.php:249
+#: inc/custom-fields-page.php:286
+#, php-format
+msgid ""
+"Set the number of items per page that you want to display. Setting this to "
+"<code>-1</code> will show <strong>all items</strong>, while setting it to "
+"<code>0</code> or leaving it empty, will follow the global option set from "
+"<em>Settings -> Reading</em>, currently set to <strong>%s items per page</"
+"strong>."
+msgstr ""
+
+#: inc/custom-fields-page.php:141 inc/custom-fields-page.php:178
+#: inc/custom-fields-page.php:213 inc/custom-fields-page.php:250
+#: inc/custom-fields-page.php:287
+msgid "Items per page:"
+msgstr ""
+
+#: inc/custom-fields-page.php:298
+msgid "Information"
+msgstr ""
+
+#: inc/custom-fields-page.php:299
+msgid "Provide your physical contact details."
+msgstr ""
+
+#: inc/custom-fields-page.php:300
+msgid "Address:"
+msgstr ""
+
+#: inc/custom-fields-page.php:301
+msgid "Region:"
+msgstr ""
+
+#: inc/custom-fields-page.php:302
+msgid "City / Town:"
+msgstr ""
+
+#: inc/custom-fields-page.php:303
+msgid "Post Code:"
+msgstr ""
+
+#: inc/custom-fields-page.php:304
+msgid "Country:"
+msgstr ""
+
+#: inc/custom-fields-page.php:305
+msgid "Telephone Number:"
+msgstr ""
+
+#: inc/custom-fields-page.php:306
+msgid "Fax Number:"
+msgstr ""
+
+#: inc/custom-fields-page.php:309
+msgid "Map"
+msgstr ""
+
+#: inc/custom-fields-page.php:310
+msgid ""
+"Enter a place or address and press <em>Search place/address</em>. "
+"Alternatively, you can drag the marker to the desired position, or double "
+"click on the map to set a new location."
+msgstr ""
+
+#: inc/custom-fields-page.php:314
+msgid "Search place/address"
+msgstr ""
+
+#: inc/custom-fields-page.php:315
+msgid "Google Maps"
+msgstr ""
+
+#: inc/custom-fields-page.php:322
+msgid "Location Latitude."
+msgstr ""
+
+#: inc/custom-fields-page.php:326
+msgid "Location Longitude."
+msgstr ""
+
+#: inc/custom-fields-page.php:331
+msgid "Update map"
+msgstr ""
+
+#: inc/custom-fields-page.php:335
+msgid "Tooltip text:"
+msgstr ""
+
+#: inc/custom-fields-page.php:347
+msgid ""
+"You can create a gallery by pressing the <em>Add Images</em> button below. "
+"You should also set a featured image that will be used as this Page's "
+"cover."
+msgstr ""
+
+#: inc/custom-fields-room.php:6
+msgctxt "post type general name"
+msgid "Rooms"
+msgstr ""
+
+#: inc/custom-fields-room.php:7 inc/custom-fields-room.php:23
+msgctxt "post type singular name"
+msgid "Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:8
+msgctxt "admin menu"
+msgid "Rooms"
+msgstr ""
+
+#: inc/custom-fields-room.php:9
+msgctxt "add new on admin bar"
+msgid "Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:11
+msgid "Add New Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:12
+msgid "Edit Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:13
+msgid "New Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:14
+msgid "View Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:15
+msgid "Search Rooms"
+msgstr ""
+
+#: inc/custom-fields-room.php:16
+msgid "No Rooms found"
+msgstr ""
+
+#: inc/custom-fields-room.php:17
+msgid "No Rooms found in the trash"
+msgstr ""
+
+#: inc/custom-fields-room.php:18
+msgid "Parent Room:"
+msgstr ""
+
+#: inc/custom-fields-room.php:29
+msgctxt "post type slug"
+msgid "room"
+msgstr ""
+
+#: inc/custom-fields-room.php:38
+msgctxt "taxonomy general name"
+msgid "Room Categories"
+msgstr ""
+
+#: inc/custom-fields-room.php:39
+msgctxt "taxonomy singular name"
+msgid "Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:40
+msgid "Search Room Categories"
+msgstr ""
+
+#: inc/custom-fields-room.php:41
+msgid "All Room Categories"
+msgstr ""
+
+#: inc/custom-fields-room.php:42
+msgid "Parent Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:43
+msgid "Parent Room Category:"
+msgstr ""
+
+#: inc/custom-fields-room.php:44
+msgid "Edit Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:45
+msgid "Update Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:46
+msgid "Add New Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:47
+msgid "New Room Category Name"
+msgstr ""
+
+#: inc/custom-fields-room.php:49
+msgid "View Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:50
+msgid "Popular Room Categories"
+msgstr ""
+
+#: inc/custom-fields-room.php:56
+msgctxt "taxonomy slug"
+msgid "room-category"
+msgstr ""
+
+#: inc/custom-fields-room.php:69
+msgid "Room Settings"
+msgstr ""
+
+#: inc/custom-fields-room.php:78 inc/custom-fields-room.php:80
+msgid "Amenities"
+msgstr ""
+
+#: inc/custom-fields-room.php:79
+msgid ""
+"Provide the amenities of the room. Select <em>Add Field</em> as many times "
+"as you want to create a list of amenities. You can delete one by clicking "
+"on its <em>Remove Me</em> button to it. You may also click and drag the "
+"fields to re-arrange them."
+msgstr ""
+
+#: inc/custom-fields-room.php:80
+msgid "Amenities' title"
+msgstr ""
+
+#: inc/custom-fields-room.php:90 inc/custom-fields-room.php:98
+msgid "Amenity:"
+msgstr ""
+
+#: inc/custom-fields-room.php:91 inc/custom-fields-room.php:99
+msgid "Remove me"
+msgstr ""
+
+#: inc/custom-fields-room.php:102
+msgid "Add Field"
+msgstr ""
+
+#: inc/custom-fields-room.php:106
+msgid "Gallery"
+msgstr ""
+
+#: inc/custom-fields-room.php:107
+msgid ""
+"You can create a gallery by pressing the Add Images button below. You "
+"should also set a featured image that will be used as the cover image."
+msgstr ""
+
+#: inc/custom-fields-room.php:111
+msgid "Pricing"
+msgstr ""
+
+#: inc/custom-fields-room.php:112
+msgid ""
+"Enter the price per night for the room. Include any currency symbols where "
+"appropriate."
+msgstr ""
+
+#: inc/custom-fields-room.php:113
+msgid "Room price."
+msgstr ""
+
+#: inc/custom-fields-room.php:114
+msgid "Room is on offer."
+msgstr ""
+
+#: inc/custom-fields-room.php:117
+msgid "Layout"
+msgstr ""
+
+#: inc/custom-fields-room.php:118
+msgid "Show the sidebar on this room."
+msgstr ""
+
+#: inc/custom-fields-service.php:6
+msgctxt "post type general name"
+msgid "Services"
+msgstr ""
+
+#: inc/custom-fields-service.php:7 inc/custom-fields-service.php:23
+msgctxt "post type singular name"
+msgid "Service"
+msgstr ""
+
+#: inc/custom-fields-service.php:8
+msgctxt "admin menu"
+msgid "Services"
+msgstr ""
+
+#: inc/custom-fields-service.php:9
+msgctxt "add new on admin bar"
+msgid "Service"
+msgstr ""
+
+#: inc/custom-fields-service.php:11
+msgid "Add New Service"
+msgstr ""
+
+#: inc/custom-fields-service.php:12
+msgid "Edit Service"
+msgstr ""
+
+#: inc/custom-fields-service.php:13
+msgid "New Service"
+msgstr ""
+
+#: inc/custom-fields-service.php:14
+msgid "View Service"
+msgstr ""
+
+#: inc/custom-fields-service.php:15
+msgid "Search Services"
+msgstr ""
+
+#: inc/custom-fields-service.php:16
+msgid "No Services found"
+msgstr ""
+
+#: inc/custom-fields-service.php:17
+msgid "No Services found in the trash"
+msgstr ""
+
+#: inc/custom-fields-service.php:18
+msgid "Parent Service:"
+msgstr ""
+
+#: inc/custom-fields-service.php:29
+msgctxt "post type slug"
+msgid "service"
+msgstr ""
+
+#: inc/custom-fields-service.php:38
+msgctxt "taxonomy general name"
+msgid "Service Categories"
+msgstr ""
+
+#: inc/custom-fields-service.php:39
+msgctxt "taxonomy singular name"
+msgid "Service Category"
+msgstr ""
+
+#: inc/custom-fields-service.php:40
+msgid "Search Service Categories"
+msgstr ""
+
+#: inc/custom-fields-service.php:41
+msgid "All Service Categories"
+msgstr ""
+
+#: inc/custom-fields-service.php:42
+msgid "Parent Service Category"
+msgstr ""
+
+#: inc/custom-fields-service.php:43
+msgid "Parent Service Category:"
+msgstr ""
+
+#: inc/custom-fields-service.php:44
+msgid "Edit Service Category"
+msgstr ""
+
+#: inc/custom-fields-service.php:45
+msgid "Update Service Category"
+msgstr ""
+
+#: inc/custom-fields-service.php:46
+msgid "Add New Service Category"
+msgstr ""
+
+#: inc/custom-fields-service.php:47
+msgid "New Service Category Name"
+msgstr ""
+
+#: inc/custom-fields-service.php:49
+msgid "View Service Category"
+msgstr ""
+
+#: inc/custom-fields-service.php:50
+msgid "Popular Service Categories"
+msgstr ""
+
+#: inc/custom-fields-service.php:56
+msgctxt "taxonomy slug"
+msgid "service-category"
+msgstr ""
+
+#: inc/custom-fields-slide.php:6
+msgctxt "post type general name"
+msgid "Slideshow"
+msgstr ""
+
+#: inc/custom-fields-slide.php:7 inc/custom-fields-slide.php:23
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr ""
+
+#: inc/custom-fields-slide.php:8
+msgctxt "admin menu"
+msgid "Slideshow"
+msgstr ""
+
+#: inc/custom-fields-slide.php:9
+msgctxt "add new on admin bar"
+msgid "Slideshow"
+msgstr ""
+
+#: inc/custom-fields-slide.php:11
+msgid "Add New Slide"
+msgstr ""
+
+#: inc/custom-fields-slide.php:12
+msgid "Edit Slide"
+msgstr ""
+
+#: inc/custom-fields-slide.php:13
+msgid "New Slide"
+msgstr ""
+
+#: inc/custom-fields-slide.php:14
+msgid "View Slide"
+msgstr ""
+
+#: inc/custom-fields-slide.php:15
+msgid "Search Slides"
+msgstr ""
+
+#: inc/custom-fields-slide.php:16
+msgid "No Slides found"
+msgstr ""
+
+#: inc/custom-fields-slide.php:17
+msgid "No Slides found in the trash"
+msgstr ""
+
+#: inc/custom-fields-slide.php:18
+msgid "Parent Slide:"
+msgstr ""
+
+#: inc/custom-fields-slide.php:29
+msgctxt "post type slug"
+msgid "slide"
+msgstr ""
+
+#: inc/custom-fields-slide.php:38
+msgctxt "taxonomy general name"
+msgid "Slideshow Categories"
+msgstr ""
+
+#: inc/custom-fields-slide.php:39
+msgctxt "taxonomy singular name"
+msgid "Slideshow Category"
+msgstr ""
+
+#: inc/custom-fields-slide.php:40
+msgid "Search Slideshow Categories"
+msgstr ""
+
+#: inc/custom-fields-slide.php:41
+msgid "All Slideshow Categories"
+msgstr ""
+
+#: inc/custom-fields-slide.php:42
+msgid "Parent Slideshow Category"
+msgstr ""
+
+#: inc/custom-fields-slide.php:43
+msgid "Parent Slideshow Category:"
+msgstr ""
+
+#: inc/custom-fields-slide.php:44
+msgid "Edit Slideshow Category"
+msgstr ""
+
+#: inc/custom-fields-slide.php:45
+msgid "Update Slideshow Category"
+msgstr ""
+
+#: inc/custom-fields-slide.php:46
+msgid "Add New Slideshow Category"
+msgstr ""
+
+#: inc/custom-fields-slide.php:47
+msgid "New Slideshow Category Name"
+msgstr ""
+
+#: inc/custom-fields-slide.php:49
+msgid "View Slideshow Category"
+msgstr ""
+
+#: inc/custom-fields-slide.php:50
+msgid "Popular Slideshow Categories"
+msgstr ""
+
+#: inc/custom-fields-slide.php:56 inc/custom-fields-video.php:56
+msgctxt "taxonomy slug"
+msgid "video-category"
+msgstr ""
+
+#: inc/custom-fields-slide.php:69
+msgid "Slide Settings"
+msgstr ""
+
+#: inc/custom-fields-slide.php:77
+msgid "Disable slide text for this slide."
+msgstr ""
+
+#: inc/custom-fields-slide.php:78
+msgid "Subtitle (appears below the title)"
+msgstr ""
+
+#: inc/custom-fields-slide.php:79 inc/widgets/book-room.php:123
+#: inc/widgets/booking-form.php:166 inc/widgets/hero.php:128
+msgid "Button text:"
+msgstr ""
+
+#: inc/custom-fields-slide.php:79
+msgctxt "slide button"
+msgid "Learn more"
+msgstr ""
+
+#: inc/custom-fields-slide.php:80
+msgid ""
+"Button URL. When someone clicks on this button, this is the link that they "
+"will be visiting. If you leave it empty, linking for this slide will be "
+"disabled."
+msgstr ""
+
+#: inc/custom-fields-slide.php:83
+msgid "Video Details"
+msgstr ""
+
+#: inc/custom-fields-slide.php:85
+msgid ""
+"You can optionally provide a video for this slide. Videos take up the full "
+"width and height of the slide. Make sure you also add a <strong>Featured "
+"Image</strong> to this slide for when the video is loading. Please note "
+"that videos of any kind will not be displayed in mobile devices and the "
+"featured image wil be shown instead."
+msgstr ""
+
+#: inc/custom-fields-slide.php:86
+msgid ""
+"You can add a self-hosted video by typing its URL or selecting by pressing "
+"the <em>Select Video</em> button. The file needs to be in <em>.mp4</em> "
+"format."
+msgstr ""
+
+#: inc/custom-fields-slide.php:87
+#, php-format
+msgid ""
+"You can simply enter the URL of a supported website's video. It needs to "
+"start with <code>http://</code> or <code>https://</code> (E.g. <code>%1$s</"
+"code>). A list of supported websites can be <a href=\"%2$s\">found here</"
+"a>."
+msgstr ""
+
+#: inc/custom-fields-slide.php:88
+msgid ""
+"Finally, you can simply enter the <strong>embed code</strong> given by a "
+"website. It needs to contain an <code>&lt;iframe></code> tag."
+msgstr ""
+
+#: inc/custom-fields-slide.php:92
+msgid "Video URL or embed code:"
+msgstr ""
+
+#: inc/custom-fields-slide.php:98
+msgid "Select Video"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:6
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:7 inc/custom-fields-testimonial.php:23
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:8
+msgctxt "admin menu"
+msgid "Testimonials"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:9
+msgctxt "add new on admin bar"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:11
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:12
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:13
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:14
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:15
+msgid "Search Testimonials"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:16
+msgid "No Testimonials found"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:17
+msgid "No Testimonials found in the trash"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:18
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:29
+msgctxt "post type slug"
+msgid "testimonial"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:46
+msgid "Testimonial Settings"
+msgstr ""
+
+#: inc/custom-fields-testimonial.php:54
+msgid "Use the main title, to denote who made the testimonial."
+msgstr ""
+
+#: inc/custom-fields-video.php:6
+msgctxt "post type general name"
+msgid "Videos"
+msgstr ""
+
+#: inc/custom-fields-video.php:7 inc/custom-fields-video.php:23
+msgctxt "post type singular name"
+msgid "Video"
+msgstr ""
+
+#: inc/custom-fields-video.php:8
+msgctxt "admin menu"
+msgid "Videos"
+msgstr ""
+
+#: inc/custom-fields-video.php:9
+msgctxt "add new on admin bar"
+msgid "Video"
+msgstr ""
+
+#: inc/custom-fields-video.php:11
+msgid "Add New Video"
+msgstr ""
+
+#: inc/custom-fields-video.php:12
+msgid "Edit Video"
+msgstr ""
+
+#: inc/custom-fields-video.php:13
+msgid "New Video"
+msgstr ""
+
+#: inc/custom-fields-video.php:14
+msgid "View Video"
+msgstr ""
+
+#: inc/custom-fields-video.php:15
+msgid "Search Videos"
+msgstr ""
+
+#: inc/custom-fields-video.php:16
+msgid "No Videos found"
+msgstr ""
+
+#: inc/custom-fields-video.php:17
+msgid "No Videos found in the trash"
+msgstr ""
+
+#: inc/custom-fields-video.php:18
+msgid "Parent Video:"
+msgstr ""
+
+#: inc/custom-fields-video.php:29
+msgctxt "post type slug"
+msgid "video"
+msgstr ""
+
+#: inc/custom-fields-video.php:38
+msgctxt "taxonomy general name"
+msgid "Video Categories"
+msgstr ""
+
+#: inc/custom-fields-video.php:39
+msgctxt "taxonomy singular name"
+msgid "Video Category"
+msgstr ""
+
+#: inc/custom-fields-video.php:40
+msgid "Search Video Categories"
+msgstr ""
+
+#: inc/custom-fields-video.php:41
+msgid "All Video Categories"
+msgstr ""
+
+#: inc/custom-fields-video.php:42
+msgid "Parent Video Category"
+msgstr ""
+
+#: inc/custom-fields-video.php:43
+msgid "Parent Video Category:"
+msgstr ""
+
+#: inc/custom-fields-video.php:44
+msgid "Edit Video Category"
+msgstr ""
+
+#: inc/custom-fields-video.php:45
+msgid "Update Video Category"
+msgstr ""
+
+#: inc/custom-fields-video.php:46
+msgid "Add New Video Category"
+msgstr ""
+
+#: inc/custom-fields-video.php:47
+msgid "New Video Category Name"
+msgstr ""
+
+#: inc/custom-fields-video.php:49
+msgid "View Video Category"
+msgstr ""
+
+#: inc/custom-fields-video.php:50
+msgid "Popular Video Categories"
+msgstr ""
+
+#: inc/custom-fields-video.php:69
+msgid "Video Settings"
+msgstr ""
+
+#: inc/custom-fields-video.php:78
+#, php-format
+msgid ""
+"In the following box, you can simply enter the URL of a supported "
+"website's video. It needs to start with <code>http://</code> or "
+"<code>https://</code> (E.g. <code>%1$s</code>). A list of supported "
+"websites can be <a href=\"%2$s\">found here</a>."
+msgstr ""
+
+#: inc/custom-fields-video.php:79
+msgid ""
+"If you enter the URL of a YouTube or a Vimeo video, a thumbnail will "
+"automatically be added for you."
+msgstr ""
+
+#: inc/custom-fields-video.php:81
+msgid "Video URL:"
+msgstr ""
+
+#: inc/customizer-controls/flexslider.php:53
+msgid "Auto slide."
+msgstr ""
+
+#: inc/customizer-controls/flexslider.php:59
+msgid "Pause between slides (in milliseconds):"
+msgstr ""
+
+#: inc/customizer-controls/flexslider.php:66
+msgid "Duration of animation (in milliseconds):"
+msgstr ""
+
+#: inc/customizer.php:10
+msgctxt "customizer section title"
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:21
+msgctxt "customizer section title"
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer.php:26
+msgctxt "customizer section title"
+msgid "Front Page Carousel"
+msgstr ""
+
+#: inc/customizer.php:31
+msgctxt "customizer section title"
+msgid "Typography Options"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Content Colors"
+msgstr ""
+
+#: inc/customizer.php:39
+msgctxt "customizer section title"
+msgid "Sidebar Colors"
+msgstr ""
+
+#: inc/customizer.php:50
+msgctxt "customizer section title"
+msgid "Social Networks"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid ""
+"Enter your social network URLs. Leaving a URL empty will hide its "
+"respective icon."
+msgstr ""
+
+#: inc/customizer.php:56
+msgctxt "customizer section title"
+msgid "Rooms Options"
+msgstr ""
+
+#: inc/customizer.php:61
+msgctxt "customizer section title"
+msgid "Booking - Contact Options"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Global options affecting your booking forms."
+msgstr ""
+
+#: inc/customizer.php:67
+msgctxt "customizer section title"
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:78
+msgctxt "customizer section title"
+msgid "Instagram widget"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Options affecting the WP Instagram widget."
+msgstr ""
+
+#: inc/customizer.php:85
+msgctxt "customizer section title"
+msgid "Weather"
+msgstr ""
+
+#: inc/customizer.php:90
+msgctxt "customizer section title"
+msgid "Other"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Other options affecting the whole site."
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Home Carousel"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Fine-tune the homepage carousel."
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Automatically generated excerpt length (in words)"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Pagination method"
+msgstr ""
+
+#: inc/customizer.php:136
+msgctxt "pagination method"
+msgid "Numbered links"
+msgstr ""
+
+#: inc/customizer.php:137
+msgctxt "pagination method"
+msgid "\"Previous - Next\" links"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Main Color"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Subnav text color"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Hover/Active Color"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Show tagline."
+msgstr ""
+
+#: inc/customizer.php:200
+msgid "Menu always appears mobile-like."
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Show Booking button."
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Show weather widget."
+msgstr ""
+
+#: inc/customizer.php:221
+#, php-format
+msgid ""
+"In order for the weather widget to work, you need to provide more "
+"information in the <a href=\"%s\">Weather Section</a>."
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "H1 size"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "H2 size"
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "H3 size"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "H4 size"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "H5 size"
+msgstr ""
+
+#: inc/customizer.php:286
+msgid "H6 size"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Body text size"
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Widgets title size"
+msgstr ""
+
+#: inc/customizer.php:316
+msgid "Widgets text size"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Lowercase content headings"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Lowercase widget titles"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/customizer.php:363
+msgid "Primary color"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Content Link Color"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "Content Link Hover Color"
+msgstr ""
+
+#: inc/customizer.php:399
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/customizer.php:426
+msgid "Global Border Color"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "Link color"
+msgstr ""
+
+#: inc/customizer.php:466
+msgid "Link Hover color"
+msgstr ""
+
+#: inc/customizer.php:475
+msgid "Widget titles color"
+msgstr ""
+
+#: inc/customizer.php:484
+msgid "Border color"
+msgstr ""
+
+#: inc/customizer.php:500
+#, php-format
+msgctxt "social network url"
+msgid "%s URL"
+msgstr ""
+
+#: inc/customizer.php:511
+msgid "RSS Feed"
+msgstr ""
+
+#: inc/customizer.php:520 part-random-testimonial.php:17
+#: part-random-testimonial.php:18
+msgid "What they say about us"
+msgstr ""
+
+#: inc/customizer.php:526
+msgid "Random testimonial title"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid ""
+"Title for the random testimonial that appears on room pages. Leave empty "
+"to disable."
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "Show a random testimonial after the room's title."
+msgstr ""
+
+#. translators: :price: is a placeholder. Do not translate into your language.
+#: inc/customizer.php:542 item-ci_theme_room.php:20
+#: item-full-ci_theme_room.php:20 item-wide-ci_theme_room.php:21
+msgid "From :price: / Night"
+msgstr ""
+
+#: inc/customizer.php:548
+msgid "Price text"
+msgstr ""
+
+#: inc/customizer.php:549
+msgid ""
+"The text that appears wherever the room price is shown. Use <code>:price:</"
+"code> to substitute with the actuall room's price being shown."
+msgstr ""
+
+#: inc/customizer.php:563
+msgid "Booking page"
+msgstr ""
+
+#: inc/customizer.php:564
+msgid ""
+"Select the page that you have assigned the <strong>Booking Page</strong> "
+"template. This is required for the booking widget and header button to "
+"function properly."
+msgstr ""
+
+#: inc/customizer.php:574
+msgid "Booking email address"
+msgstr ""
+
+#: inc/customizer.php:575
+msgid ""
+"The email address that booking requests will be delivered to. This is "
+"required for the booking form to function properly."
+msgstr ""
+
+#: inc/customizer.php:585
+msgid "Contact email address"
+msgstr ""
+
+#: inc/customizer.php:586
+msgid ""
+"The email address that contact form messages will be delivered to. This is "
+"required for the contact form to function properly."
+msgstr ""
+
+#: inc/customizer.php:600
+msgid "Footer text left"
+msgstr ""
+
+#: inc/customizer.php:601 inc/customizer.php:612
+msgid ""
+"Allowed tags: a, abbr, acronym, b, br, code, em, i, img, li, ol, pre, "
+"span, strong, ul."
+msgstr ""
+
+#: inc/customizer.php:611
+msgid "Footer text right"
+msgstr ""
+
+#: inc/customizer.php:628
+msgid "WP Instagram: Slideshow."
+msgstr ""
+
+#: inc/customizer.php:638
+msgid "WP Instagram: Slideshow Speed."
+msgstr ""
+
+#: inc/customizer.php:651
+msgid "Weather"
+msgstr ""
+
+#: inc/customizer.php:653
+#, php-format
+msgid ""
+"In order to show the current weather conditions on your site, you need an "
+"API key/secret from Yahoo! You can obtain a free API key/secret by "
+"visiting the <a href=\"%s\" target=\"_blank\">Yahoo! Developer Network</"
+"a>. Make sure to <strong>Create an App</strong>, enter an "
+"<strong>Application Name</strong> and set the <strong>Application Type</"
+"strong> to <strong>Web Application</strong>."
+msgstr ""
+
+#: inc/customizer.php:654
+#, php-format
+msgid ""
+"To find out the weather code of your area, <a href=\"%s\" target=\"_blank"
+"\">go to this website</a>, enter your location and press search. Copy and "
+"paste the code in the <strong>Weather Code</strong> field. For example, "
+"for Zermatt, Switzerland the code is <strong>784766</strong>."
+msgstr ""
+
+#: inc/customizer.php:665
+msgid "Weather Code"
+msgstr ""
+
+#: inc/customizer.php:675
+msgid "Weather Unit"
+msgstr ""
+
+#: inc/customizer.php:686
+msgid "Yahoo Weather API Key"
+msgstr ""
+
+#: inc/customizer.php:696
+msgid "Yahoo Weather API Secret"
+msgstr ""
+
+#: inc/customizer.php:712
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:722
+msgid "Google Analytics Tracking ID"
+msgstr ""
+
+#: inc/customizer.php:723
+#, php-format
+msgid ""
+"Tracking is enabled only for the non-admin portion of your website. If you "
+"need fine-grained control of the tracking code, you are strongly adviced "
+"to <a href=\"%s\" target=\"_blank\">use a specialty plugin</a> instead."
+msgstr ""
+
+#: inc/customizer.php:733
+msgid "Enable Google Maps API."
+msgstr ""
+
+#: inc/customizer.php:734
+msgid ""
+"The Google Maps API must only be loaded once in each page. Since many "
+"plugins may try to load it as well, you might want to disable it from the "
+"theme to avoid potential errors."
+msgstr ""
+
+#: inc/customizer.php:744
+msgid "Google Maps API key"
+msgstr ""
+
+#: inc/customizer.php:745
+#, php-format
+msgid ""
+"Paste here your Google Maps API Key. Maps will <strong>not</strong> be "
+"displayed without an API key. You need to issue a key from <a href=\"%1$s"
+"\" target=\"_blank\">Google Accounts</a>, and make sure the <strong>Google "
+"Maps JavaScript API</strong> is enabled. For instructions on issuing an "
+"API key, <a href=\"%2$s\" target=\"_blank\">read this article</a>."
+msgstr ""
+
+#: inc/customizer.php:758
+msgid "Show animated pre-loader."
+msgstr ""
+
+#: inc/customizer.php:759
+msgid ""
+"The pre-loader is shown while a page loads, reducing the perceived loading "
+"time and showing the complete rendered page at once."
+msgstr ""
+
+#: inc/customizer.php:773
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:774
+msgid ""
+"If an image is selected, it will replace the default textual logo (site "
+"name) on the header."
+msgstr ""
+
+#: inc/functions.php:15
+msgid "Previous page"
+msgstr ""
+
+#: inc/functions.php:16
+msgid "Next page"
+msgstr ""
+
+#: inc/helpers-post-meta.php:22
+msgid "Select file"
+msgstr ""
+
+#: inc/helpers-post-meta.php:23
+msgid "Select files"
+msgstr ""
+
+#: inc/helpers-post-meta.php:24
+msgid "Use this file"
+msgstr ""
+
+#: inc/helpers-post-meta.php:25
+msgid "Use these files"
+msgstr ""
+
+#: inc/helpers-post-meta.php:26
+msgid "Update gallery"
+msgstr ""
+
+#: inc/helpers-post-meta.php:27
+msgid "Loading..."
+msgstr ""
+
+#: inc/helpers-post-meta.php:28
+msgid "Gallery preview not available."
+msgstr ""
+
+#: inc/helpers-post-meta.php:30 inc/helpers-post-meta.php:426
+msgid "Remove from gallery"
+msgstr ""
+
+#: inc/helpers-post-meta.php:263
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/helpers-post-meta.php:415
+msgid "Add Images"
+msgstr ""
+
+#: inc/helpers-post-meta.php:417
+msgid "Randomize order"
+msgstr ""
+
+#: inc/helpers-post-meta.php:432
+msgid "Your gallery images will appear here"
+msgstr ""
+
+#: inc/helpers.php:23
+#, php-format
+msgid ""
+"It looks like the theme was just installed. <a href=\"%s\" target=\"_blank"
+"\">Download the sample content</a> to get things moving."
+msgstr ""
+
+#: inc/widgets/book-room.php:17
+msgid "Book This Room"
+msgstr ""
+
+#. translators: :price: is a placeholder. Do not translate into your language.
+#: inc/widgets/book-room.php:19
+msgid "From :price: / night"
+msgstr ""
+
+#: inc/widgets/book-room.php:22
+msgid ""
+"Displays a Booking call to action, for the currently viewed room. Only "
+"displayed in single room pages."
+msgstr ""
+
+#: inc/widgets/book-room.php:24
+msgid "Theme - Book Room"
+msgstr ""
+
+#: inc/widgets/book-room.php:118 inc/widgets/booking-form.php:164
+msgid ""
+"The widget will display a booking form which will redirect on the theme's "
+"booking page selected via Appearance > Customize > Booking Options."
+msgstr ""
+
+#: inc/widgets/book-room.php:119 inc/widgets/booking-form.php:165
+#: inc/widgets/contact.php:195 inc/widgets/gallery.php:132
+#: inc/widgets/page-gallery.php:180 inc/widgets/testimonial.php:141
+msgid "Title (optional):"
+msgstr ""
+
+#: inc/widgets/book-room.php:120
+msgid ""
+"Use <code>:price:</code> anywhere below, to substitute with the actuall "
+"room's price being shown."
+msgstr ""
+
+#: inc/widgets/book-room.php:121 inc/widgets/text.php:111
+msgid "Text:"
+msgstr ""
+
+#: inc/widgets/book-room.php:122
+msgid "Subtext:"
+msgstr ""
+
+#: inc/widgets/book-room.php:126
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/book-room.php:145 inc/widgets/booking-form.php:169
+#: inc/widgets/contact.php:214 inc/widgets/gallery.php:145
+#: inc/widgets/hero.php:132 inc/widgets/latest-posts.php:177
+#: inc/widgets/page-gallery.php:201 inc/widgets/testimonial.php:164
+#: inc/widgets/text.php:114
+msgid "Custom Colors"
+msgstr ""
+
+#: inc/widgets/book-room.php:147 inc/widgets/booking-form.php:171
+#: inc/widgets/contact.php:216 inc/widgets/gallery.php:147
+#: inc/widgets/hero.php:134 inc/widgets/latest-posts.php:179
+#: inc/widgets/page-gallery.php:203 inc/widgets/testimonial.php:166
+#: inc/widgets/text.php:116
+msgid "Foreground Color:"
+msgstr ""
+
+#: inc/widgets/book-room.php:148 inc/widgets/booking-form.php:172
+#: inc/widgets/contact.php:217 inc/widgets/gallery.php:148
+#: inc/widgets/hero.php:135 inc/widgets/latest-posts.php:180
+#: inc/widgets/page-gallery.php:204 inc/widgets/testimonial.php:167
+#: inc/widgets/text.php:117
+msgid "Background Color:"
+msgstr ""
+
+#: inc/widgets/booking-form.php:16
+msgid "Check Availability"
+msgstr ""
+
+#: inc/widgets/booking-form.php:18
+msgid "Displays a Booking Form that redirects to the booking page."
+msgstr ""
+
+#: inc/widgets/booking-form.php:20
+msgid "Theme - Booking Form"
+msgstr ""
+
+#: inc/widgets/booking-form.php:68 template-booking.php:156
+msgctxt "booking form label"
+msgid "Arrival"
+msgstr ""
+
+#: inc/widgets/booking-form.php:69
+msgctxt "booking form placeholder"
+msgid "Arrive"
+msgstr ""
+
+#: inc/widgets/booking-form.php:74 template-booking.php:164
+msgctxt "booking form label"
+msgid "Departure"
+msgstr ""
+
+#: inc/widgets/booking-form.php:75
+msgctxt "booking form placeholder"
+msgid "Depart"
+msgstr ""
+
+#: inc/widgets/booking-form.php:80 template-booking.php:174
+msgctxt "booking form label"
+msgid "Adults"
+msgstr ""
+
+#: inc/widgets/booking-form.php:83
+msgctxt "booking form placeholder"
+msgid "Adults"
+msgstr ""
+
+#: inc/widgets/booking-form.php:93 template-booking.php:200
+msgctxt "booking form label"
+msgid "Room"
+msgstr ""
+
+#: inc/widgets/booking-form.php:96
+msgctxt "booking form placeholder"
+msgid "Room"
+msgstr ""
+
+#: inc/widgets/booking-form.php:175 inc/widgets/contact.php:220
+#: inc/widgets/gallery.php:151 inc/widgets/hero.php:138
+#: inc/widgets/latest-posts.php:183 inc/widgets/page-gallery.php:207
+#: inc/widgets/testimonial.php:170 inc/widgets/text.php:120
+msgid "Background Image:"
+msgstr ""
+
+#: inc/widgets/booking-form.php:194 inc/widgets/contact.php:239
+#: inc/widgets/gallery.php:170 inc/widgets/hero.php:157
+#: inc/widgets/latest-posts.php:202 inc/widgets/page-gallery.php:226
+#: inc/widgets/testimonial.php:189 inc/widgets/text.php:139
+msgid "Background Repeat:"
+msgstr ""
+
+#: inc/widgets/booking-form.php:196 inc/widgets/contact.php:241
+#: inc/widgets/gallery.php:172 inc/widgets/hero.php:159
+#: inc/widgets/latest-posts.php:204 inc/widgets/page-gallery.php:228
+#: inc/widgets/testimonial.php:191 inc/widgets/text.php:141
+msgid "Repeat"
+msgstr ""
+
+#: inc/widgets/booking-form.php:197 inc/widgets/contact.php:242
+#: inc/widgets/gallery.php:173 inc/widgets/hero.php:160
+#: inc/widgets/latest-posts.php:205 inc/widgets/page-gallery.php:229
+#: inc/widgets/testimonial.php:192 inc/widgets/text.php:142
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/widgets/booking-form.php:198 inc/widgets/contact.php:243
+#: inc/widgets/gallery.php:174 inc/widgets/hero.php:161
+#: inc/widgets/latest-posts.php:206 inc/widgets/page-gallery.php:230
+#: inc/widgets/testimonial.php:193 inc/widgets/text.php:143
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/widgets/booking-form.php:199 inc/widgets/contact.php:244
+#: inc/widgets/gallery.php:175 inc/widgets/hero.php:162
+#: inc/widgets/latest-posts.php:207 inc/widgets/page-gallery.php:231
+#: inc/widgets/testimonial.php:194 inc/widgets/text.php:144
+msgid "No Repeat"
+msgstr ""
+
+#: inc/widgets/contact.php:17
+msgid "Displays the contents of a Contact Page template."
+msgstr ""
+
+#: inc/widgets/contact.php:19
+msgid "Theme - Contact"
+msgstr ""
+
+#: inc/widgets/contact.php:93
+msgid "Address"
+msgstr ""
+
+#: inc/widgets/contact.php:141
+msgid "Contact"
+msgstr ""
+
+#: inc/widgets/contact.php:196
+msgid ""
+"The widget will display the map and address that you've set from the "
+"specified Contact page below. If you also want a contact form displayed, "
+"you'll need to also provide the contact form shortcode in the Text field "
+"below."
+msgstr ""
+
+#: inc/widgets/contact.php:198
+msgid "Contact form page:"
+msgstr ""
+
+#: inc/widgets/contact.php:211
+msgid "Text (contact form shortcode):"
+msgstr ""
+
+#: inc/widgets/gallery.php:16
+msgid "Displays a single gallery."
+msgstr ""
+
+#: inc/widgets/gallery.php:18
+msgid "Theme - Gallery"
+msgstr ""
+
+#: inc/widgets/gallery.php:134
+msgid "Gallery:"
+msgstr ""
+
+#: inc/widgets/hero.php:18
+msgid "Learn more"
+msgstr ""
+
+#: inc/widgets/hero.php:22
+msgid "Theme - Hero text"
+msgstr ""
+
+#: inc/widgets/hero.php:23
+msgid "Displays a hero text and button with custom background."
+msgstr ""
+
+#: inc/widgets/hero.php:125 inc/widgets/latest-posts.php:142
+#: inc/widgets/rooms.php:136 inc/widgets/socials.php:45
+#: inc/widgets/text.php:110
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/hero.php:126
+msgid "Subtitle:"
+msgstr ""
+
+#: inc/widgets/hero.php:129
+msgid "Button URL:"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:19
+msgid ""
+"Displays a number of the latest (or random) posts from a specific category."
+msgstr ""
+
+#: inc/widgets/latest-posts.php:21
+msgid "Theme - Latest Posts"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:144 inc/widgets/rooms.php:138
+msgid "Category to display the latest posts from (optional):"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:159 inc/widgets/rooms.php:153
+msgid "Show random posts."
+msgstr ""
+
+#: inc/widgets/latest-posts.php:161 inc/widgets/rooms.php:155
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:164
+msgid "Output Columns:"
+msgstr ""
+
+#: inc/widgets/page-gallery.php:17
+msgid "Displays a page that has the \"Page with gallery\" template assigned."
+msgstr ""
+
+#: inc/widgets/page-gallery.php:19
+msgid "Theme - Page Gallery"
+msgstr ""
+
+#: inc/widgets/page-gallery.php:126
+msgctxt "page button"
+msgid "Learn More"
+msgstr ""
+
+#: inc/widgets/page-gallery.php:182
+msgid "Page with gallery:"
+msgstr ""
+
+#: inc/widgets/page-gallery.php:196
+msgid ""
+"The widget will display the <strong>excerpt</strong> of the page selected, "
+"and if empty, it will display the <strong>content</strong> instead."
+msgstr ""
+
+#: inc/widgets/page-gallery.php:198
+msgid "Max number of images:"
+msgstr ""
+
+#: inc/widgets/rooms.php:14
+msgid "Displays a number of rooms from a specific category, using a layout."
+msgstr ""
+
+#: inc/widgets/rooms.php:16
+msgid "Theme - Rooms"
+msgstr ""
+
+#: inc/widgets/rooms.php:41
+msgid "Random Rooms"
+msgstr ""
+
+#: inc/widgets/rooms.php:43
+msgid "Rooms"
+msgstr ""
+
+#: inc/widgets/rooms.php:134
+msgid ""
+"Please assign this widget <strong>only</strong> in the <em>Homepage</em> "
+"widget area."
+msgstr ""
+
+#: inc/widgets/socials.php:10
+msgid "Displays the site's social icons."
+msgstr ""
+
+#: inc/widgets/socials.php:12
+msgid "Theme - Social Icons"
+msgstr ""
+
+#: inc/widgets/socials.php:46
+msgid ""
+"This widget displays your site's social icons. In order to set them up, "
+"you need to visit Appearance > Customize > Social Networks and provide the "
+"appropriate URLs where desired."
+msgstr ""
+
+#: inc/widgets/testimonial.php:17
+msgid "Displays a testimonial."
+msgstr ""
+
+#: inc/widgets/testimonial.php:19
+msgid "Theme - Testimonial"
+msgstr ""
+
+#: inc/widgets/testimonial.php:143
+msgid "Testimonial:"
+msgstr ""
+
+#: inc/widgets/testimonial.php:158
+msgid "Show random testimonial (ignores the selection above)."
+msgstr ""
+
+#: inc/widgets/text.php:19
+msgid "Theme - Text"
+msgstr ""
+
+#: inc/widgets/text.php:20
+msgid "Displays text with custom background."
+msgstr ""
+
+#: index.php:29 search.php:49
+msgctxt "post button"
+msgid "Read More"
+msgstr ""
+
+#: item-ci_theme_attraction.php:17 item-full-ci_theme_attraction.php:17
+msgctxt "attraction button"
+msgid "View More"
+msgstr ""
+
+#: item-ci_theme_gallery.php:17 item-full-ci_theme_gallery.php:17
+msgctxt "gallery button"
+msgid "View More"
+msgstr ""
+
+#: item-ci_theme_room.php:5 item-full-ci_theme_room.php:5
+#: item-wide-ci_theme_room.php:5
+msgid "Special Offer"
+msgstr ""
+
+#: item-ci_theme_room.php:28 item-full-ci_theme_room.php:28
+#: item-wide-ci_theme_room.php:29
+msgctxt "room button"
+msgid "Learn More"
+msgstr ""
+
+#: item-ci_theme_service.php:17 item-full-ci_theme_service.php:17
+msgctxt "service button"
+msgid "Learn More"
+msgstr ""
+
+#: item-full.php:17 item.php:17
+msgid "Read More"
+msgstr ""
+
+#: part-page-hero.php:6 part-page-hero.php:16
+msgid "From the blog"
+msgstr ""
+
+#: part-page-hero.php:12
+msgid "Page not found"
+msgstr ""
+
+#: part-page-hero.php:14
+msgid "Search results"
+msgstr ""
+
+#: search.php:13
+msgid "No results found. Please broaden your terms and search again."
+msgstr ""
+
+#: search.php:14
+msgid ""
+"Just one result found. We either nailed it, or you might want to broaden "
+"your terms and search again."
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] ""
+msgstr[1] ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgctxt "search box placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:5
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-booking.php:31
+msgid "Your <b>name</b> is required."
+msgstr ""
+
+#: template-booking.php:35
+msgid "A valid <b>email</b> is required."
+msgstr ""
+
+#: template-booking.php:39
+msgid "A complete <b>arrival date</b> is required."
+msgstr ""
+
+#: template-booking.php:43
+msgid "The <b>arrival date</b> must be in the <b>form yyyy/mm/dd</b>."
+msgstr ""
+
+#: template-booking.php:47
+msgid "A complete <b>departure date</b> is required."
+msgstr ""
+
+#: template-booking.php:51
+msgid "The <b>departure date</b> must be in the form <b>yyyy/mm/dd</b>."
+msgstr ""
+
+#: template-booking.php:55
+msgid "A number of one or more <b>adults</b> is required."
+msgstr ""
+
+#: template-booking.php:59 template-booking.php:64
+msgid "You must select the <b>room</b> you are interested in."
+msgstr ""
+
+#: template-booking.php:73
+msgid "Name:"
+msgstr ""
+
+#: template-booking.php:74
+msgid "Email:"
+msgstr ""
+
+#: template-booking.php:75
+msgid "Arrival:"
+msgstr ""
+
+#: template-booking.php:76
+msgid "Departure:"
+msgstr ""
+
+#: template-booking.php:77
+msgid "Adults:"
+msgstr ""
+
+#: template-booking.php:78
+msgid "Children:"
+msgstr ""
+
+#: template-booking.php:79
+msgid "Room:"
+msgstr ""
+
+#: template-booking.php:80
+msgid "Message:"
+msgstr ""
+
+#: template-booking.php:91
+msgid "Booking form"
+msgstr ""
+
+#: template-booking.php:110
+msgid "There have been some errors with your submission:"
+msgstr ""
+
+#: template-booking.php:120
+msgid ""
+"Thank you for your interest! We have received your e-mail and will get "
+"back to you as soon as possible!"
+msgstr ""
+
+#: template-booking.php:126
+msgid "There was a problem while sending the email. Please try again later."
+msgstr ""
+
+#: template-booking.php:144
+msgctxt "booking form label"
+msgid "Your Name"
+msgstr ""
+
+#: template-booking.php:149
+msgctxt "booking form label"
+msgid "Your E-mail"
+msgstr ""
+
+#: template-booking.php:187
+msgctxt "booking form label"
+msgid "Children"
+msgstr ""
+
+#: template-booking.php:215
+msgctxt "booking form label"
+msgid "Comments"
+msgstr ""
+
+#: template-booking.php:220
+msgctxt "booking form label"
+msgid "Send"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Zermatt"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.cssigniter.com/ignite/themes/zermatt"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Hotel theme for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CSSIgniter"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.cssigniter.com"
+msgstr ""
